@@ -23,7 +23,7 @@ function initializeMessages() {
 
   simlBC.listMessages({}, (err, response) => {
     if (err) {
-      console.error("Error fetching messages:", err);
+      console.error("Error fetching messages test:", err);
       return;
     }
 
