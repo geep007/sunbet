@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       }
     });
-  
+  console.log('test');
     initializeFormValidation(); // Run for existing page content
   });
   
